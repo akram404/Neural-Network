@@ -1,3 +1,4 @@
+# this Convolutional neural network is for mnist hand-written digits dataset
 import numpy as np
 from keras import Sequential
 from keras.datasets import mnist
